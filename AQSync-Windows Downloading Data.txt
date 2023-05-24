@@ -1,0 +1,10 @@
+This program is intended for users to download data from an AQSync to their computer.
+
+In order to do this, the user must input ".\DownloadDataV2.ps1" into the console.
+	This can be followed with date and device arguments. (2023-05-01 NOx)
+
+The date argument will allow the user to download data from after the specified date.
+The device argument will allow the user to download data from a specific device.
+
+The date argument must come before the device arugment. 
+
